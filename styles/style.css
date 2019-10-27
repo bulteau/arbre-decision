@@ -11,3 +11,16 @@ button{
 	margin: 1em;
 	padding: 10px;
 }
+
+#breadcrumb, #tree {
+	width: 50%;
+  float: left;
+}
+
+li {
+	list-style: none;
+}
+
+.badge {
+	margin: 10px;
+}
