@@ -1,3 +1,3 @@
 Checklist - Code review :
-- [] Feature(s) validation
-- [] Readability a.k.a. ‘Understandability’
+- [ ] Feature(s) validation
+- [ ] Readability a.k.a. ‘Understandability’
